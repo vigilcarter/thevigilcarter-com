@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+node_modules/
+.vercel
+.env
+.env.local
+*.log
+.idea/
+.vscode/
+
+# Internal working folders (not part of public site repo)
+drafts/
