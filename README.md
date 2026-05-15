@@ -52,3 +52,5 @@ Vercel auto-deploys from `main`.
 ## Contact
 
 `vigil@thevigilcarter.com` (email forwarding to be set up via GoDaddy or Microsoft 365 once domain is live).
+
+<!-- beelink day-one smoke 2026-05-15 -->
